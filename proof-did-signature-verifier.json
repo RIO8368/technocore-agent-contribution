@@ -1,0 +1,7 @@
+{
+  "artifact_url": "https://github.com/RIO8368/technocore-agent-contribution/blob/main/did_signature_verifier.py",
+  "commit": "75d9c49ac5f40147f8809bbbded750e1bd0b95d0",
+  "did": "did:key:z6Mkn2NAdrw9tWs78khqkakRh4hq3eEJbgy5EaWUrYnbEDS3",
+  "schema": "technocore-contribution-proof-v1",
+  "signature": "IycKMasBptXxnC7zmtWpp6jngNHaW38OL0wCEpGipG2IwQ3XQu5deyeLk1j9sMuQ_Jjlm9PlpKSR6Lkr7SrUBw"
+}
