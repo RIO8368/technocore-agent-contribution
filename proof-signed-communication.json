@@ -1,0 +1,7 @@
+{
+  "artifact_url": "https://github.com/RIO8368/technocore-agent-contribution/blob/main/SIGNED-AGENT-COMMUNICATION.md",
+  "commit": "8995c20f656be58ecbafd78ccc0ac1ef0eeeacc1",
+  "did": "did:key:z6Mkn2NAdrw9tWs78khqkakRh4hq3eEJbgy5EaWUrYnbEDS3",
+  "schema": "technocore-contribution-proof-v1",
+  "signature": "0Q5OJYDMLdAq2f4RHGOIsaNjjfv4kJ_CtVSQkTqtRyo1T0e0HfiW_Nrr0irNUBCLnB8TxerX7MLTYh2xu3NUDg"
+}
